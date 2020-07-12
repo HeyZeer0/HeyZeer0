@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**HeyZeer0/HeyZeer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Fabio Augusto** and mainly a Java Developer!<br>
+Currently, I'm specialized in creating scalable Backend systems and have skills in other areas 😄
 
-Here are some ideas to get you started:
+My main goal is to create systems that are simple but scalable at the same time, allowing easy maintenance and future upgrades.<br>
+🔭 I’m currently working on open-source projects like [Wynntils](https://github.com/Wynntils)!<br>
+⚡ Fun fact: I've started programming with 12 years old trying to create my own Minecraft server!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+  - heyzeer0@wynntils.com
+  - [@HeyZeer0](https://twitter.com/HeyZeer0)
+  - Discord: HeyZeer0#0190
