@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm **Fabio Augusto** and mainly a Java Developer!<br>
-Currently, I'm specialized in creating scalable Backend systems and have skills in other areas 😄
+Currently, my main skill involves architecting and running easily scalable and maintainable systems, while also being proficient in multiple other areas 😄
 
 My main goal is to create systems that are simple but scalable at the same time, allowing easy maintenance and future upgrades.<br>
 🔭 I’m currently working as a Game Developer on [Wynncraft](https://wynncraft.com/) and contributing to open-source projects like [Wynntils](https://github.com/Wynntils)!<br>
