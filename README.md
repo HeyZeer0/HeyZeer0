@@ -8,6 +8,6 @@ My main goal is to create systems that are simple but scalable at the same time,
 ⚡ Fun fact: I started programming at 12 years old trying to create my own Minecraft server!
 
 ### 📫 How to reach me:
-  - Discord: HeyZeer0#0190
+  - Discord: heyzeer0
   - [@HeyZeer0](https://twitter.com/HeyZeer0)
-  - heyzeer0@wynntils.com
+  - me@hey0.dev
